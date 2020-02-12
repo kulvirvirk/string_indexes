@@ -14,3 +14,5 @@ print(str1)
 
 
 print (str1[44])
+
+print(str1[44:55])
