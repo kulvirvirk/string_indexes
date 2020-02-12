@@ -12,3 +12,5 @@ sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit 
 #print the full string 
 print(str1)
 
+
+print (str1[44])
